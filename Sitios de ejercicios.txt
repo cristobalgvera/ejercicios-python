@@ -1,0 +1,2 @@
+aca: http://aprendeconalf.es/python/ejercicios/
+pyd: http://www.pythondiario.com/p/ejercicios-de-programacion-python.html
