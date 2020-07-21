@@ -1,3 +1,6 @@
+from typing import Any
+
+
 class Car:
     def __init__(self):  # Constructor
         self.__length = 100  # Private attribute '__' annotation
